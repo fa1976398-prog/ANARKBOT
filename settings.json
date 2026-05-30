@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ANARKBOT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ANARKBRASILRP.aternos.me",
+    "port": 60258,
     "version": "",
     "try-creative": false
   },
